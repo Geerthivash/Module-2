@@ -29,4 +29,7 @@ To write a Python program to check if a number is a Perfect number using the con
 ```
 ### OUTPUT
 
+<img width="1193" height="306" alt="image" src="https://github.com/user-attachments/assets/3dd0f21f-a35d-4abf-ae92-c017f0f8cac3" />
+
 ### RESULT
+Thus the program to define a function that accepts two values and returns their modulo value has been implemented and executed successfully.

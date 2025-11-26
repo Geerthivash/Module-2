@@ -28,10 +28,11 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ```
 ### OUTPUT
 ```
+<img width="1209" height="623" alt="image" src="https://github.com/user-attachments/assets/cac2ea46-4f2a-46ad-b37f-c1167c03f3f7" />
 
 ```
 ### RESULT
 ```
-
+Thus the program to print n natural numbers using while loop has been implemented and executed successfully.
 ```
 

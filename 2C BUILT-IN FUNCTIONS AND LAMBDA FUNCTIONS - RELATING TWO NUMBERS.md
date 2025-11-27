@@ -32,10 +32,8 @@ print(result(a, b))
 
 ### OUTPUT
 
-```
 <img width="1175" height="321" alt="image" src="https://github.com/user-attachments/assets/23a25adf-8216-483e-b11c-f2e005553134" />
 
-```
 
 ### RESULT
 
